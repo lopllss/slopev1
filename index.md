@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+  <head>
+    
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta content="https://3kh0.github.io/slope" property="og:url" />
+   <meta content="https://3kh0.github.io/slope/slope4.jpeg" property="og:image" />
+   <meta content="#000000" data-react-helmet="true" name="theme-color" />
+   <meta name="title" content="Play SLOPE game online">
+   <meta name="description" content="Play Slope, an endless space run game. Drive a ball in the 3D running game in Slope. Easy to controls,  high speed, and addictive gameplay. Drive your ball to follow the straight line in space and avoid obstacles as they crash through the race. With high speed and racetrack in space, slope game improves your reflexes and reactions, provides hours of fun, and relaxes. If you enjoy high-speed platform games, you will be addicted to this game after the first play. Players only need to use the keyboard arrow keys to play the Slope. The real-time gameplay is flexible and players only have to change their movements small enough. The ball's gestures get pronounced as players keep up keyboard keys for longer. Just drive the ball and guid it around the racetrack. Note that the racetrack is infinite - no levels or stages are needed to finish. Only try to keep the ball to a high score as long as possible!">
+   <meta name="keywords" content="games, ad blocker, trolls, unblocked games, web games, online games, fun, tags">
+   <meta name="robots" content="index, follow">
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <meta name="language" content="English">
+   <meta name="revisit-after" content="1 days">
+   <meta name="author" content="3kh0">
+    
+ <link rel="icon" sizes="192x192" href="slope4.jpeg">
+ <link rel="shortcut icon" href="slope4.jpeg" type="image/x-icon"/>
+ <link rel="apple-touch-icon" href="slope4.jpeg" type="image/x-icon"/>
+    <style>
+#frame {
+  width: 100%;
+  height: 100%;
+  border:0;
+}
+div.fixed {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: auto;
+  border: 3px solid #000000;
+  background-color: #000000;
+}
+html, body { /* Allow the #wrapper div to stretch 100% in both directions */
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: #2C2F33;
+  font-family: 'Roboto', sans-serif;
+  color: #FFFFFF;
+  overflow:hidden;
+}
+    </style>
+  </head>
+  <title>Slope | 3kh0</title>
+<body style="margin: 0; height: 100vh">
+ <iframe id="frame" src="https://rawcdn.githack.com/scheng123321/channeler-tam/main/index.html?t=tmm-slope" name="Slope game" allowfullscreen></iframe>
+<div class="fixed">
+Twedder owns this game
+</div>
+</body>
 
-You can use the [editor on GitHub](https://github.com/lopllss/slopev1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lopllss/slopev1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
